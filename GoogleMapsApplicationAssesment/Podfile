@@ -1,0 +1,12 @@
+
+platform :ios, '8.0'
+use_frameworks!
+
+target 'Google Maps Application' do
+pod 'SwiftyJSON'
+pod 'GoogleMaps'
+pod 'GooglePlaces'
+pod 'Google-Mobile-Ads-SDK'
+
+end
+
